@@ -65,6 +65,17 @@ Performance may vary depending on lighting, resolution, face angle, the quality 
 An incorrect classification for a specific image does not necessarily mean that the entire system is failing. Therefore, evaluation should be based on a test set containing a diverse range of images.
 
 
+**Use of AI**
+
+Generative AI was used to support:
+
+- Understanding concepts related to supervised learning, convolutional neural networks, and object detection.
+
+- Assisting with the implementation and debugging of Python code.
+
+- Investigating issues related to image pre-processing and the integration of models.
+
+
 **Results and evaluation**
 
 <img width="536" height="455" alt="download" src="https://github.com/user-attachments/assets/df94d0d2-abb5-4102-8433-ca2a2ce1b0e0" />
@@ -80,12 +91,6 @@ F1-score: 98.24%
 Error rate: 1.76%
 
 
-**Use of AI**
+**Result**
 
-Generative AI was used to support:
-
-- Understanding concepts related to supervised learning, convolutional neural networks, and object detection.
-
-- Assisting with the implementation and debugging of Python code.
-
-- Investigating issues related to image pre-processing and the integration of models.
+<img width="841" height="636" alt="download" src="https://github.com/user-attachments/assets/beb8276c-4a61-4057-858a-ca89ff32456d" />
